@@ -1,0 +1,8 @@
+# num=[1,2,3,4,5,2]
+# num.append(5)
+# num.insert(5,6)
+# print(num.count(5))
+# print(num.pop(3))
+num=[1,2,3,4]
+num.extend([5,6,7,8])
+print(num)
